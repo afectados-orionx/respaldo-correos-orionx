@@ -1,0 +1,6 @@
+# Salida del respaldo: contiene datos personales, nunca se publica
+respaldo_orionx/
+*.mbox
+*.eml
+estado.json
+__pycache__/
