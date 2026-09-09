@@ -27,7 +27,7 @@ Datos del hecho que pide el formulario:
 | Dirección del delito | Gertrudis Echeñique 30, oficina 32 (domicilio legal de Orionx SpA, Diario Oficial 27-03-2025) |
 | Fecha del hecho | 03/09/2026 |
 | Hora del hecho | 14:06 (hora en que llegó el correo de cierre) |
-| Involucrados | Orionx SpA, RUT 76.801.011-0. Opcionalmente los exejecutivos querellados por la propia empresa, Joaquín Díaz y Roberto Zibert, indicando que no tienes relación con ellos |
+| Involucrados | Sección opcional y solo admite personas naturales (no hay campo para el RUT de la empresa): los datos de Orionx SpA, RUT 76.801.011-0, van en el relato. Si quieres agregar a alguien, pon a los exejecutivos querellados por la propia empresa, Joaquín Díaz y Roberto Zibert, con parentesco "sin parentesco", vinculación "otra/desconocida" y en otros antecedentes: "ex ejecutivo de Orionx SpA, querellado por la empresa el 2-09-2026; no tengo relación con él" |
 
 Adjuntos: hasta 5 archivos en PDF, imagen, DOC o video. Sugeridos: el comunicado de cierre en PDF, tu captura de saldo, un resumen de tus correos (el archivo `RESUMEN.md` que genera el script, convertido a PDF), tus comprobantes bancarios.
 
