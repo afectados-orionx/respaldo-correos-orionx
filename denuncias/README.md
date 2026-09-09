@@ -23,8 +23,8 @@ Datos del hecho que pide el formulario:
 | ¿Es usted la víctima? | Sí |
 | ¿Denuncia institucional? | No (denuncias como persona) |
 | Región del delito | Metropolitana de Santiago |
-| Comuna del delito | Santiago (domicilio social según estatutos) |
-| Dirección del delito | Domicilio social: comuna de Santiago (estatutos, Diario Oficial). La empresa no publica dirección en su sitio. Direcciones conocidas: SII registra Av. Américo Vespucio 2700, of. 301, Vitacura (dato aportado por un afectado; verificar en sii.cl antes de usarlo); en sus comunicados de 2020-2021 OrionX indicaba Juana de Arco 2012, Providencia. OJO: Gertrudis Echeñique 30 of. 32, Las Condes, es la notaría donde se firmó la escritura de 2025, no la empresa. Si no puedes verificar ninguna, pon comuna Santiago y explica en el relato que el hecho ocurrió a través de la plataforma en línea |
+| Comuna del delito | Vitacura (oficinas de la empresa según el SII) |
+| Dirección del delito | Av. Américo Vespucio 2700, oficina 301, Vitacura (edificio Patio Vitacura): oficinas de OrionX según el registro del SII y reconocidas por afectados en fotos de prensa. El domicilio social según los estatutos es la comuna de Santiago, sin calle; conviene decirlo en el relato. En comunicados de 2020-2021 la empresa indicaba Juana de Arco 2012, Providencia. OJO: Gertrudis Echeñique 30 of. 32, Las Condes, que circuló en versiones anteriores de esta guía, es la notaría donde se firmó la escritura de 2025, no la empresa |
 | Fecha del hecho | 03/09/2026 |
 | Hora del hecho | 14:06 (hora en que llegó el correo de cierre) |
 | Involucrados | Sección opcional y solo admite personas naturales (no hay campo para el RUT de la empresa): los datos de Orionx SpA, RUT 76.801.011-0, van en el relato. Si quieres agregar a alguien, pon a los exejecutivos querellados por la propia empresa, Joaquín Díaz y Roberto Zibert, con parentesco "sin parentesco", vinculación "otra/desconocida" y en otros antecedentes: "ex ejecutivo de Orionx SpA, querellado por la empresa el 2-09-2026; no tengo relación con él" |
