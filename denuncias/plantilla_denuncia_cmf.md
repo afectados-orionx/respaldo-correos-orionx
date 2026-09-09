@@ -2,7 +2,7 @@
 
 Vía: https://www.cmfchile.cl/portal/principal/623/w4-propertyvalue-48916.html ("Presentación de denuncias"), con ClaveÚnica. Es denuncia, no reclamo.
 
-Entidad denunciada: Orionx SpA, RUT 76.801.011-0, Gertrudis Echeñique 30, oficina 32, Las Condes. Sitio orionx.com, correo contacto@orionx.com.
+Entidad denunciada: Orionx SpA, RUT 76.801.011-0, domicilio social en la comuna de Santiago (estatutos; la empresa no publica dirección). Sitio orionx.com, correo contacto@orionx.com.
 
 ---
 
