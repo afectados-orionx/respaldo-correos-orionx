@@ -31,7 +31,9 @@ Datos del hecho que pide el formulario:
 
 Adjuntos: hasta 5 archivos en PDF, imagen, DOC o video. Sugeridos: el comunicado de cierre en PDF, tu captura de saldo, un resumen de tus correos (el archivo `RESUMEN.md` que genera el script, convertido a PDF), tus comprobantes bancarios.
 
-Plantilla de relato (en [plantilla_relato_fiscalia.md](plantilla_relato_fiscalia.md)). Adapta los datos entre corchetes y borra lo que no aplique.
+La causa penal ya existe: **RUC 2600661816-1**, iniciada por la querella de la propia empresa y a cargo, según La Tercera (11 de septiembre de 2026), de la Fiscalía de Investigación Especializada Oriente. Menciona ese RUC en tu relato para que tu denuncia se agrupe con las demás; la plantilla ya lo incluye.
+
+Plantilla de relato (en [plantilla_relato_fiscalia.md](plantilla_relato_fiscalia.md)). Adapta los datos entre corchetes y borra lo que no aplique. Actualizada el 13 de septiembre de 2026 con lo publicado por La Tercera: la empresa reconoce que siguió captando tras el rechazo de la CMF, su informe forense no pudo separar los fondos de clientes y de la empresa, y el plan de restitución sigue sin fechas.
 
 Al terminar recibirás un comprobante con un número de folio. **Guárdalo y comparte solo el folio en el grupo**, nunca el comprobante completo: la primera página trae tu RUT, teléfono, correo y dirección.
 
@@ -51,7 +53,7 @@ Qué escribir: lo mismo que en la Fiscalía pero en versión corta (ver [plantil
 
 ## 4. Registrar tu caso con OrionX
 
-OrionX anunció en orionx.com/status un plan de restitución en cinco fases y un chat de atención desde el 8 de septiembre de 2026 a las 18:00. Registra tu caso ahí, describe tu saldo y guarda el número de solicitud y las capturas de la conversación. Es requisito para entrar en cualquier reparto.
+OrionX anunció en orionx.com/status un plan de restitución en cinco fases (sin fechas al 13 de septiembre de 2026) y un chat de atención desde el 8 de septiembre. Ese chat resultó ser un asistente automatizado que no entrega información sobre saldos ni plazos; la única vía con registro es el correo a contacto@orionx.com. Escribe describiendo tu saldo y pidiendo confirmación por escrito, guarda el correo enviado y cualquier respuesta, y también capturas del chat. Es requisito para entrar en cualquier reparto.
 
 ## 5. Vigilar el Boletín Concursal
 
@@ -62,10 +64,14 @@ Si Orionx SpA entra en liquidación (Ley 20.720), la resolución se publica en h
 - Comparte en el grupo tu folio de Fiscalía y tu monto aproximado (sin datos personales). Con eso se pide que las denuncias se agrupen en una sola causa y se dimensiona el daño.
 - Si retiraste alguna vez desde OrionX Ethereum, DAI, USDC, Polkadot, XRP, Stellar, Tron o Litecoin, comparte el hash de esa transacción: permite identificar las billeteras de OrionX en esa red y vigilarlas, como ya se hizo con Bitcoin.
 - Desconfía de cualquier "abogado" o "recuperador" que te escriba por privado. OrionX no pide claves ni códigos por teléfono, WhatsApp o redes sociales.
+- En particular, circula una oferta de "recuperación" de una empresa extranjera que cobra 7 % de comisión y que La Tercera mencionó el 13 de septiembre sin advertir el riesgo. A un afectado le llegó con su nombre, RUT y monto exactos 24 horas después de denunciar. Nadie recupera fondos fuera de la vía legal: no pagues por adelantado ni entregues datos ni direcciones de billetera.
+- Si el 4 de septiembre de 2026 (alrededor de las 12:10) recibiste un correo directo de los dos exejecutivos querellados rechazando los cargos, guárdalo en formato original (.eml): una querella ya lo cita como prueba y la Fiscalía puede pedirlo.
 
 ## Fuentes
 
 - Comunicado de cierre de Orionx SpA, 3 de septiembre de 2026 (correo a clientes) y https://orionx.com/status
 - CMF, 4 de septiembre de 2026: https://www.cmfchile.cl/portal/prensa/625/w4-article-113273.html
 - La Tercera, 4 de septiembre de 2026: https://www.latercera.com/pulso/noticia/las-operaciones-que-llevaron-al-abrupto-cierre-de-la-plataforma-de-criptomonedas-orionx/
+- La Tercera, 11 de septiembre de 2026 (fiscal a cargo, diligencias pedidas por la empresa, custodio Fireblocks): https://www.latercera.com/pulso/noticia/quien-es-la-fiscal-detras-del-caso-orionx-y-las-diligencias-pendientes-que-encomendo-la-empresa/
+- La Tercera / Pulso, 13 de septiembre de 2026, "OrionX: los dos excompañeros de informática tras el mayor criptoescándalo en Chile" (declaraciones de los exejecutivos querellados, reconocimiento de la empresa de haber seguido captando tras el rechazo de la CMF, alcance del informe forense, plan sin fechas)
 - Domicilio de Orionx SpA: Diario Oficial, 27 de marzo de 2025 (https://dequienes.cl/diario-oficial/2025/03/27/orionx-spa-76801011-0-2626331)
