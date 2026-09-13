@@ -33,7 +33,7 @@ Adjuntos: hasta 5 archivos en PDF, imagen, DOC o video. Sugeridos: el comunicado
 
 La causa penal ya existe: **RUC 2600661816-1**, iniciada por la querella de la propia empresa y a cargo, según La Tercera (11 de septiembre de 2026), de la Fiscalía de Investigación Especializada Oriente. Menciona ese RUC en tu relato para que tu denuncia se agrupe con las demás; la plantilla ya lo incluye.
 
-Plantilla de relato (en [plantilla_relato_fiscalia.md](plantilla_relato_fiscalia.md)). Adapta los datos entre corchetes y borra lo que no aplique. Actualizada el 13 de septiembre de 2026 con lo publicado por La Tercera: la empresa reconoce que siguió captando tras el rechazo de la CMF, su informe forense no pudo separar los fondos de clientes y de la empresa, y el plan de restitución sigue sin fechas.
+Plantilla de relato (en [plantilla_relato_fiscalia.md](plantilla_relato_fiscalia.md); también en [PDF](plantilla_relato_fiscalia.pdf)). Adapta los datos entre corchetes y borra lo que no aplique. Actualizada el 13 de septiembre de 2026 con lo publicado por La Tercera: la empresa reconoce que siguió captando tras el rechazo de la CMF, su informe forense no pudo separar los fondos de clientes y de la empresa, y el plan de restitución sigue sin fechas.
 
 Al terminar recibirás un comprobante con un número de folio. **Guárdalo y comparte solo el folio en el grupo**, nunca el comprobante completo: la primera página trae tu RUT, teléfono, correo y dirección.
 
@@ -43,17 +43,17 @@ La CMF informó el 4 de septiembre de 2026 que Orionx SpA no está inscrita ni a
 
 Dónde: https://www.cmfchile.cl/portal/principal/623/w4-propertyvalue-48916.html ("Presentación de denuncias"), con ClaveÚnica.
 
-Texto listo en [plantilla_denuncia_cmf.md](plantilla_denuncia_cmf.md). Pide tres cosas: que se investigue la operación sin autorización y la captación de fondos posterior al rechazo, que se fiscalice el plan de restitución exigiendo plazos y criterios públicos, y que se emita una alerta actualizada. Cita el folio de tu denuncia en Fiscalía.
+Texto listo en [plantilla_denuncia_cmf.md](plantilla_denuncia_cmf.md) ([PDF](plantilla_denuncia_cmf.pdf)). Pide tres cosas: que se investigue la operación sin autorización y la captación de fondos posterior al rechazo, que se fiscalice el plan de restitución exigiendo plazos y criterios públicos, y que se emita una alerta actualizada. Cita el folio de tu denuncia en Fiscalía.
 
 ## 3. Reclamo en el SERNAC
 
 Dónde: https://www.sernac.cl, "Reclamo", con ClaveÚnica. Proveedor: Orionx SpA, RUT 76.801.011-0. Rubro: servicios financieros o inversiones. El SERNAC traslada el reclamo a la empresa, que tiene plazo para responder, y con muchos reclamos sobre el mismo hecho puede iniciar acciones colectivas o una mediación colectiva.
 
-Qué escribir: lo mismo que en la Fiscalía pero en versión corta (ver [plantilla_reclamo_sernac.md](plantilla_reclamo_sernac.md)). Pide la restitución íntegra de tus activos o su equivalente en pesos al valor del 3 de septiembre de 2026, e información pública del plan de restitución.
+Qué escribir: lo mismo que en la Fiscalía pero en versión corta (ver [plantilla_reclamo_sernac.md](plantilla_reclamo_sernac.md), [PDF](plantilla_reclamo_sernac.pdf)). Pide la restitución íntegra de tus activos o su equivalente en pesos al valor del 3 de septiembre de 2026, e información pública del plan de restitución.
 
 ## 4. Registrar tu caso con OrionX
 
-OrionX anunció en orionx.com/status un plan de restitución en cinco fases (sin fechas al 13 de septiembre de 2026) y un chat de atención desde el 8 de septiembre. Ese chat resultó ser un asistente automatizado que no entrega información sobre saldos ni plazos; la única vía con registro es el correo a contacto@orionx.com. Escribe describiendo tu saldo y pidiendo confirmación por escrito, guarda el correo enviado y cualquier respuesta, y también capturas del chat. Es requisito para entrar en cualquier reparto.
+OrionX anunció en orionx.com/status un plan de restitución en cinco fases (sin fechas al 13 de septiembre de 2026) y un chat de atención desde el 8 de septiembre. Ese chat resultó ser un asistente automatizado que no entrega información sobre saldos ni plazos; la única vía con registro es el correo a contacto@orionx.com. Usa la [plantilla de correo formal](plantilla_correo_orionx.md) (pide registro del caso, estado de cuenta, custodia y plan con fechas), guarda el correo enviado y cualquier respuesta, y también capturas del chat. Es requisito para entrar en cualquier reparto.
 
 ## 5. Vigilar el Boletín Concursal
 
