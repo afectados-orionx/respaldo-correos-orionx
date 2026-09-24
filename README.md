@@ -1,5 +1,7 @@
 # Respaldo de correos de OrionX para afectados
 
+> **¿Tenías fondos en OrionX?** No estás solo. Grupo de afectados, plantillas para denunciar en Fiscalía, SERNAC y CMF, y alerta de estafas: **https://afectados-orionx.github.io/** · Discord: https://discord.gg/NhreVAj9Xv
+
 Herramienta para que cualquier cliente de OrionX (exchange chileno que anunció su cierre y suspendió retiros el 3 de septiembre de 2026) descargue a su computador **todos los correos que prueban sus depósitos, compras, ventas, retiros y saldos**, antes de que el acceso a la plataforma desaparezca.
 
 Guarda cada correo original (.eml), una versión en texto legible, los adjuntos (boletas PDF), un índice y una tabla de movimientos con montos, monedas, direcciones y hashes detectados. Con eso puedes acreditar tu saldo ante la Fiscalía, el SERNAC, la CMF, un abogado o el plan de restitución.
