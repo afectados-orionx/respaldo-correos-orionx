@@ -35,7 +35,7 @@ La causa penal ya existe: **RUC 2600661816-1**, iniciada por la querella de la p
 
 Plantilla de relato (en [plantilla_relato_fiscalia.md](plantilla_relato_fiscalia.md); también en [PDF](plantilla_relato_fiscalia.pdf)). Adapta los datos entre corchetes y borra lo que no aplique. Actualizada el 13 de septiembre de 2026 con lo publicado por La Tercera: la empresa reconoce que siguió captando tras el rechazo de la CMF, su informe forense no pudo separar los fondos de clientes y de la empresa, y el plan de restitución sigue sin fechas.
 
-Al terminar recibirás un comprobante con un número de folio. **Guárdalo y comparte solo el folio en el grupo**, nunca el comprobante completo: la primera página trae tu RUT, teléfono, correo y dirección.
+Al terminar recibirás un comprobante con un número de folio. **Guárdalo y envíalo en el Discord con el comando `/denuncias`** (formulario privado que solo ve la administración), nunca lo publiques en el chat ni compartas el comprobante completo: la primera página trae tu RUT, teléfono, correo y dirección.
 
 ## 2. Denuncia en la CMF
 
@@ -57,11 +57,11 @@ OrionX anunció en orionx.com/status un plan de restitución en cinco fases (sin
 
 ## 5. Vigilar el Boletín Concursal
 
-Si Orionx SpA entra en liquidación (Ley 20.720), la resolución se publica en https://www.boletinconcursal.cl. Desde esa publicación corren **30 días** para que cada acreedor verifique su crédito ante el liquidador, con la evidencia del punto anterior. Quien no verifica en plazo queda fuera del reparto. Busca "ORIONX" o el RUT 76.801.011-0 cada semana.
+Si Orionx SpA entra en liquidación (Ley 20.720), la resolución se publica en https://www.boletinconcursal.cl. **Actualización 7 de noviembre de 2026:** la Resolución de Liquidación de Orionx SpA (17.º Juzgado Civil de Santiago, rol C-13868-2026, liquidación voluntaria) se publicó el 5 de noviembre de 2026. Desde esa publicación corre el plazo para que cada acreedor verifique su crédito ante el liquidador, con la evidencia del punto anterior; la resolución fija **15 días** (la ley habla de 30 para la liquidación ordinaria: confírmalo con un abogado). Quien no verifica en plazo queda fuera del reparto.
 
 ## 6. Actuar como colmena
 
-- Comparte en el grupo tu folio de Fiscalía y tu monto aproximado (sin datos personales). Con eso se pide que las denuncias se agrupen en una sola causa y se dimensiona el daño.
+- En el Discord, envía tus tres folios con el comando `/denuncias` (privado) y consulta con `/saldo` lo que OrionX declaró que te debe. Con eso se pide que las denuncias se agrupen en una sola causa y se dimensiona el daño. No publiques folios, RUT ni montos en el chat.
 - Si retiraste alguna vez desde OrionX Ethereum, DAI, USDC, Polkadot, XRP, Stellar, Tron o Litecoin, comparte el hash de esa transacción: permite identificar las billeteras de OrionX en esa red y vigilarlas, como ya se hizo con Bitcoin.
 - Desconfía de cualquier "abogado" o "recuperador" que te escriba por privado. OrionX no pide claves ni códigos por teléfono, WhatsApp o redes sociales.
 - En particular, circula una oferta de "recuperación" de una empresa extranjera que cobra 7 % de comisión y que La Tercera mencionó el 13 de septiembre sin advertir el riesgo. A un afectado le llegó con su nombre, RUT y monto exactos 24 horas después de denunciar. Nadie recupera fondos fuera de la vía legal: no pagues por adelantado ni entregues datos ni direcciones de billetera.
