@@ -41,7 +41,7 @@ Al terminar recibirás un comprobante con un número de folio. **Guárdalo y env
 
 La CMF informó el 4 de septiembre de 2026 que Orionx SpA no está inscrita ni autorizada, que rechazó su solicitud el 19 de junio de 2026 y que no puede ordenar devoluciones. Por eso **no corresponde un "reclamo"** (solo aplica a entidades fiscalizadas) sino una **"denuncia"**: informar un hecho que puede ser infracción a la Ley 21.521 (Ley Fintec), que exige inscripción y autorización para custodiar e intermediar criptoactivos.
 
-Dónde: https://www.cmfchile.cl/portal/principal/623/w4-propertyvalue-48916.html ("Presentación de denuncias"), con ClaveÚnica.
+Dónde: https://www.cmfchile.cl/portal/principal/623/w4-propertyvalue-48916.html ("Presentación de denuncias"), con ClaveÚnica. Si la página falla al entrar con ClaveÚnica (pasó varios días a comienzos de noviembre de 2026), vuelve a intentarlo más tarde. En el Discord puedes postular al rol de querellante sin este folio, dejándolo en blanco en `/denuncias`, y enviarlo después con `/cmf` dentro de 7 días.
 
 Texto listo en [plantilla_denuncia_cmf.md](plantilla_denuncia_cmf.md) ([PDF](plantilla_denuncia_cmf.pdf)). Pide tres cosas: que se investigue la operación sin autorización y la captación de fondos posterior al rechazo, que se fiscalice el plan de restitución exigiendo plazos y criterios públicos, y que se emita una alerta actualizada. Cita el folio de tu denuncia en Fiscalía.
 
@@ -57,13 +57,13 @@ OrionX anunció en orionx.com/status un plan de restitución en cinco fases (sin
 
 ## 5. Vigilar el Boletín Concursal
 
-Si Orionx SpA entra en liquidación (Ley 20.720), la resolución se publica en https://www.boletinconcursal.cl. **Actualización 7 de noviembre de 2026:** la Resolución de Liquidación de Orionx SpA (17.º Juzgado Civil de Santiago, rol C-13868-2026, liquidación voluntaria) se publicó el 5 de noviembre de 2026. Desde esa publicación corre el plazo para que cada acreedor verifique su crédito ante el liquidador, con la evidencia del punto anterior; la resolución fija **15 días** (la ley habla de 30 para la liquidación ordinaria: confírmalo con un abogado). Quien no verifica en plazo queda fuera del reparto.
+Si Orionx SpA entra en liquidación (Ley 20.720), la resolución se publica en https://www.boletinconcursal.cl. **Actualización 7 de noviembre de 2026:** la Resolución de Liquidación de Orionx SpA (17.º Juzgado Civil de Santiago, rol C-13868-2026, liquidación voluntaria) se publicó el 5 de noviembre de 2026. Desde esa publicación corre el plazo para que cada acreedor verifique su crédito: la resolución fija **15 días** (la ley habla de 30 para la liquidación ordinaria: confírmalo con un abogado). **Actualización 9 de noviembre de 2026:** la verificación se presenta ante el tribunal, en la causa C-13868-2026, con los respaldos de tu saldo (la evidencia del punto anterior) y con patrocinio de abogado; así lo indicó la propia OrionX en su correo del 4 de noviembre a los clientes. Quien no verifica en plazo puede quedar fuera del reparto.
 
 ## 6. Actuar como colmena
 
-- En el Discord, envía tus tres folios con el comando `/denuncias` (privado) y consulta con `/saldo` lo que OrionX declaró que te debe. Con eso se pide que las denuncias se agrupen en una sola causa y se dimensiona el daño. No publiques folios, RUT ni montos en el chat.
+- En el Discord, envía tus tres folios con el comando `/denuncias` (privado; si la página de la CMF está caída, deja ese folio en blanco y envíalo después con `/cmf`) y consulta con `/saldo` lo que OrionX declaró que te debe. Con eso se pide que las denuncias se agrupen en una sola causa y se dimensiona el daño. No publiques folios, RUT ni montos en el chat.
 - Si retiraste alguna vez desde OrionX Ethereum, DAI, USDC, Polkadot, XRP, Stellar, Tron o Litecoin, comparte el hash de esa transacción: permite identificar las billeteras de OrionX en esa red y vigilarlas, como ya se hizo con Bitcoin.
-- Desconfía de cualquier "abogado" o "recuperador" que te escriba por privado. OrionX no pide claves ni códigos por teléfono, WhatsApp o redes sociales.
+- Desconfía de cualquier "abogado" o "recuperador" que te escriba por privado. En noviembre de 2026 circulan correos de supuestas empresas de "chargeback" que conocen el nombre, RUT y monto del afectado: es estafa. La Fiscalía, la PDI, la CMF y el SERNAC no cobran ni escriben desde Gmail; los correos reales de la Fiscalía terminan en @minpublico.cl. OrionX no pide claves ni códigos por teléfono, WhatsApp o redes sociales.
 - En particular, circula una oferta de "recuperación" de una empresa extranjera que cobra 7 % de comisión y que La Tercera mencionó el 13 de septiembre sin advertir el riesgo. A un afectado le llegó con su nombre, RUT y monto exactos 24 horas después de denunciar. Nadie recupera fondos fuera de la vía legal: no pagues por adelantado ni entregues datos ni direcciones de billetera.
 - Si el 4 de septiembre de 2026 (alrededor de las 12:10) recibiste un correo directo de los dos exejecutivos querellados rechazando los cargos, guárdalo en formato original (.eml): una querella ya lo cita como prueba y la Fiscalía puede pedirlo.
 
